@@ -6,6 +6,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 </p>
 
 <p align="center">
+ 
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
@@ -19,7 +20,7 @@ Projeto exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologi
 <br>
 
 <p align="center">
-  <img alt="Projeto DevLinks" src=".github/preview.jpg" width="100%">
+  <img alt="Projeto DevLinks" src="./github/preview.jpg" width="100%">
 </p>
 
 ## 🚀 Tecnologias
